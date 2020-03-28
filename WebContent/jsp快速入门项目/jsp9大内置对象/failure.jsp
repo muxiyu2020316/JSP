@@ -6,7 +6,9 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>
-<h1> 登入成功</h1>
+<body >
+<font color="Red">
+<h3> 登入失败,请刷新后重试</h3>
+</font>
 </body>
 </html>

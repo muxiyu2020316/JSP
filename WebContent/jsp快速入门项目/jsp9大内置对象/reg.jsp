@@ -32,6 +32,6 @@
 </form>
 <br>
 <br>
-<a href="requset.jsp?username=?" >www.baidu.com</a>
+<a href="requset.jsp?username=muxiyu" >www.baidu.com</a>
 </body>
 </html>

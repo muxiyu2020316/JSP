@@ -18,7 +18,7 @@
   session.setAttribute("userage", "20");
   session.setAttribute("usersex", "woman");
   //设置当前session最大生存周期
-session.setMaxInactiveInterval(10);//10秒过期
+//session.setMaxInactiveInterval(10);//10秒过期
 
   %>
 session 创建时间:<%=sdf.format(date)%><br>
