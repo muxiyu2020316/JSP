@@ -16,7 +16,7 @@
    <td><input type="text" name="username"></td>
    </tr>
    <tr>
-   <td>密码:</td>
+   <td>密码名:</td>
    <td><input type="password" name="userpwd"></td>
    </tr>
    <tr>

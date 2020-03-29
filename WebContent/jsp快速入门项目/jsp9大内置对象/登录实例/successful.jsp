@@ -8,7 +8,12 @@
 </head>
 <body>
 <font color="Red">
-<h3> 登入成功!</h3>
+         <%String loginusr="";
+         if(loginusr!=null){
+        	loginusr=session.getAttribute("loginuser").toString();
+         }
+         %>
+<h3> 登入成功!欢迎你!<%=loginusr %></h3>
 </font>
 </body>
 </html>
